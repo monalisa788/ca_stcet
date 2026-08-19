@@ -1,0 +1,9 @@
+ ## Structure Query Language(SQL)----
+SQL is a programming language uses to interact with relation database.
+
+It is used perform CRUD operations:
+
+1.Create
+2.Read
+3.Updatr
+4.Delete 

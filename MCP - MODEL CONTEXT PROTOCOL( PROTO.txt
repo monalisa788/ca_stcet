@@ -1,0 +1,3 @@
+MCP -> MODEL CONTEXT PROTOCOL( PROTOCOL MEANS RULES
+                               CONTEXT  MEANS EXTRA , ENTERNAL INFO ADD 
+                               MODEL LIKE LLM)

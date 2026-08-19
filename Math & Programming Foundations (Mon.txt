@@ -1,0 +1,288 @@
+Math & Programming Foundations (Month 0–1)
+Math (don’t overdo it—focus on intuition)
+
+Linear algebra
+
+Vectors, matrices, dot products
+
+Eigenvalues (intuition only)
+
+Probability & statistics
+
+Mean, variance, distributions
+
+Bayes theorem
+
+Bias–variance tradeoff
+
+Calculus (high-level)
+
+Gradients
+
+Backprop intuition
+
+Programming
+
+Python (must-have)
+
+NumPy, Pandas
+
+Data visualization: Matplotlib, Seaborn
+
+Deliverables
+
+✅ Implement linear regression from scratch
+✅ Data analysis notebook
+✅ Stats cheat sheet
+
+2️⃣ Classical Machine Learning (Month 2–3)
+Core Algorithms
+
+Supervised learning
+
+Linear & logistic regression
+
+k-NN
+
+Decision trees
+
+Random forest
+
+Gradient boosting (XGBoost, LightGBM)
+
+Unsupervised learning
+
+K-means
+
+Hierarchical clustering
+
+PCA
+
+ML Concepts
+
+Feature engineering
+
+Train/validation/test split
+
+Cross-validation
+
+Overfitting & regularization
+
+Evaluation metrics (RMSE, AUC, F1)
+
+Tools
+
+scikit-learn
+
+Jupyter
+
+MLflow (intro)
+
+Deliverables
+
+✅ End-to-end ML project
+✅ Feature engineering report
+✅ Model comparison table
+
+3️⃣ Data & Pipelines (Month 3–4)
+Data Handling
+
+Data cleaning & preprocessing
+
+Handling missing & imbalanced data
+
+Scaling & encoding
+
+Pipelines
+
+sklearn pipelines
+
+Data versioning
+
+Reproducibility
+
+SQL & Data Systems
+
+SQL basics
+
+Data warehouses (BigQuery, Redshift – conceptual)
+
+Deliverables
+
+✅ Reusable ML pipeline
+✅ Dataset versioning setup
+✅ Data quality checklist
+
+4️⃣ Deep Learning Foundations (Month 4–5)
+Neural Networks
+
+Perceptron
+
+Fully connected networks
+
+Activation functions
+
+Loss functions
+
+Optimization (SGD, Adam)
+
+Frameworks
+
+PyTorch (preferred)
+
+TensorFlow / Keras (optional)
+
+Regularization
+
+Dropout
+
+Batch normalization
+
+Weight decay
+
+Deliverables
+
+✅ Neural network from scratch (NumPy)
+✅ PyTorch training loop
+✅ Overfitting experiment
+
+5️⃣ Specialized Deep Learning (Month 5–6)
+Computer Vision
+
+CNNs
+
+Transfer learning
+
+Image augmentation
+
+Models: ResNet, EfficientNet
+
+NLP (pre-LLM)
+
+Tokenization
+
+Word embeddings (Word2Vec, GloVe)
+
+RNNs, LSTMs
+
+Attention (intro)
+
+Deliverables
+
+✅ Image classifier
+✅ Text classifier
+✅ Transfer learning experiment
+
+6️⃣ Modern NLP & GenAI (Month 6–7)
+Transformers
+
+Self-attention
+
+Encoder vs decoder
+
+BERT vs GPT
+
+LLM Concepts
+
+Pretraining
+
+Fine-tuning
+
+RLHF
+
+Prompt engineering
+
+GenAI Skills
+
+Using LLM APIs
+
+RAG basics
+
+Embeddings
+
+Deliverables
+
+✅ Transformer-based task
+✅ Simple RAG system
+✅ Prompt evaluation doc
+
+7️⃣ MLOps & Production ML (Month 7–8)
+Model Deployment
+
+REST APIs (FastAPI)
+
+Batch vs real-time inference
+
+Model serialization
+
+MLOps
+
+Experiment tracking (MLflow)
+
+CI/CD for ML
+
+Model monitoring (drift, performance)
+
+Feature stores
+
+Infrastructure
+
+Docker
+
+Cloud basics (AWS/GCP/Azure)
+
+Deliverables
+
+✅ Deployed ML model
+✅ Monitoring dashboard
+✅ Retraining pipeline
+
+8️⃣ Advanced Topics (Month 9+)
+Choose Your Track
+
+Research-focused
+
+Optimization theory
+
+Probabilistic models
+
+Self-supervised learning
+
+Diffusion models
+
+Industry-focused
+
+Large-scale training
+
+Model optimization
+
+Cost/performance tradeoffs
+
+Data-centric AI
+
+Deliverables
+
+✅ Research-style report OR
+✅ Scalable production system
+
+🎯 Role-Based Focus
+
+ML Engineer → pipelines, deployment, scalability
+
+Data Scientist → stats, experimentation, business insights
+
+Research Scientist → math, theory, papers
+
+AI Engineer (GenAI) → LLMs, RAG, agents
+
+🔥 Capstone Ideas
+
+Recommendation system
+
+Fraud detection system
+
+Medical image classifier
+
+Chatbot with classical + LLM hybrid
+
+End-to-end MLOps project

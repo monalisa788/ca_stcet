@@ -1,0 +1,24 @@
+## DOM Manipulation ---
+
+1. Change HTML
+2. Change CSS
+3. performs Actions
+
+## Chrome Extensions---
+
+1.Create Features: Add new functionalities to chrome
+
+2.Interact with web : Modify or read webpage content.
+
+3.API Access: Use chrome's built-in function 
+
+4.User Experience:
+
+##java script----
+
+1.javaScript runs at the client side in the browser.
+
+2.Coffee Script/TypeScript are transpiled to JavaScript.
+
+code--> compile-->Executable
+code--> Transpiler--> code
